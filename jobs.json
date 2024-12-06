@@ -1,0 +1,176 @@
+[
+  {
+    "title": "Software Engineer",
+    "location": "Halishohor, Chittagong",
+    "jobType": "Hybrid",
+    "category": "Engineering",
+    "applicationDeadline": "2024-12-31",
+    "salaryRange": {
+      "min": 40000,
+      "max": 60000,
+      "currency": "bdt"
+    },
+    "description": "We are seeking a skilled Software Engineer to join our dynamic team. The candidate will work on diverse projects and contribute to innovative solutions.",
+    "company_info": "Tech Solutions Ltd. is a leading IT company specializing in cutting-edge software development and IT consultancy.",
+    "requirements": [
+      "Proficient in JavaScript",
+      "Experience with React",
+      "Strong problem-solving skills"
+    ],
+    "responsibilities": [
+      "Develop and maintain software",
+      "Collaborate with the team",
+      "Participate in code reviews"
+    ],
+    "status": "active",
+    "deadline": "2024-12-25",
+    "hr_email": "hr@techsolutions.com",
+    "hr_name": "Farhan Rahman",
+    "hr_image": "https://example.com/hr1.jpg"
+  },
+  {
+    "title": "Marketing Specialist",
+    "location": "Banani, Dhaka",
+    "jobType": "Remote",
+    "category": "Marketing",
+    "applicationDeadline": "2024-12-15",
+    "salaryRange": {
+      "min": 30000,
+      "max": 50000,
+      "currency": "bdt"
+    },
+    "description": "Join our marketing team to strategize and implement innovative campaigns for our products and services.",
+    "company_info": "BrightMark Inc. is a marketing agency known for delivering creative and data-driven marketing solutions.",
+    "requirements": [
+      "Expertise in digital marketing",
+      "Knowledge of SEO/SEM",
+      "Strong analytical skills"
+    ],
+    "responsibilities": [
+      "Develop marketing strategies",
+      "Manage ad campaigns",
+      "Analyze campaign performance"
+    ],
+    "status": "active",
+    "deadline": "2024-12-10",
+    "hr_email": "recruitment@brightmark.com",
+    "hr_name": "Tasnia Ahmed",
+    "hr_image": "https://example.com/hr2.jpg"
+  },
+  {
+    "title": "Finance Manager",
+    "location": "Gulshan, Dhaka",
+    "jobType": "Part-Time",
+    "category": "Finance",
+    "applicationDeadline": "2024-12-20",
+    "salaryRange": {
+      "min": 50000,
+      "max": 70000,
+      "currency": "bdt"
+    },
+    "description": "We are hiring a Finance Manager to oversee financial operations, budgeting, and reporting.",
+    "company_info": "SecureFinance Ltd. provides reliable financial services to businesses and individuals across Bangladesh.",
+    "requirements": [
+      "CPA or equivalent certification",
+      "Strong analytical skills",
+      "Proficiency in financial software"
+    ],
+    "responsibilities": [
+      "Manage budgets",
+      "Prepare financial reports",
+      "Ensure regulatory compliance"
+    ],
+    "status": "active",
+    "deadline": "2024-12-15",
+    "hr_email": "finance.hr@securefinance.com",
+    "hr_name": "Md. Alamgir",
+    "hr_image": "https://example.com/hr3.jpg"
+  },
+  {
+    "title": "Content Writer",
+    "location": "Uttara, Dhaka",
+    "jobType": "Contractual",
+    "category": "Marketing",
+    "applicationDeadline": "2024-12-25",
+    "salaryRange": {
+      "min": 20000,
+      "max": 35000,
+      "currency": "bdt"
+    },
+    "description": "We are looking for a talented Content Writer to create compelling content for our digital platforms.",
+    "company_info": "CreativeHub is a digital agency specializing in branding, web design, and content creation.",
+    "requirements": [
+      "Excellent writing skills",
+      "Knowledge of SEO",
+      "Strong research skills"
+    ],
+    "responsibilities": [
+      "Write blog posts",
+      "Create social media content",
+      "Develop email campaigns"
+    ],
+    "status": "active",
+    "deadline": "2024-12-20",
+    "hr_email": "hr@creativehub.com",
+    "hr_name": "Anika Chowdhury",
+    "hr_image": "https://example.com/hr4.jpg"
+  },
+  {
+    "title": "Teaching Assistant",
+    "location": "Chawkbazar, Chittagong",
+    "jobType": "Intern",
+    "category": "Teaching",
+    "applicationDeadline": "2024-12-22",
+    "salaryRange": {
+      "min": 10000,
+      "max": 15000,
+      "currency": "bdt"
+    },
+    "description": "Assist in preparing course materials and support teachers in classroom activities.",
+    "company_info": "KnowledgeBridge is a renowned educational institution fostering academic excellence.",
+    "requirements": [
+      "Good academic record",
+      "Excellent communication skills",
+      "Enthusiasm for teaching"
+    ],
+    "responsibilities": [
+      "Assist in lesson planning",
+      "Support classroom management",
+      "Conduct tutoring sessions"
+    ],
+    "status": "active",
+    "deadline": "2024-12-18",
+    "hr_email": "careers@knowledgebridge.com",
+    "hr_name": "Samiul Islam",
+    "hr_image": "https://example.com/hr5.jpg"
+  },
+  {
+    "title": "Project Manager",
+    "location": "Mirpur, Dhaka",
+    "jobType": "Hybrid",
+    "category": "Management",
+    "applicationDeadline": "2024-12-30",
+    "salaryRange": {
+      "min": 60000,
+      "max": 90000,
+      "currency": "bdt"
+    },
+    "description": "We are seeking a dynamic Project Manager to lead our development team and ensure successful project delivery.",
+    "company_info": "InnovateTech specializes in software development and IT consulting, offering end-to-end solutions.",
+    "requirements": [
+      "Strong leadership skills",
+      "Experience in project management",
+      "Proficiency in Agile methodologies"
+    ],
+    "responsibilities": [
+      "Oversee project execution",
+      "Manage team workflows",
+      "Ensure timely project delivery"
+    ],
+    "status": "active",
+    "deadline": "2024-12-25",
+    "hr_email": "hr@innovatetech.com",
+    "hr_name": "Tahsin Rahman",
+    "hr_image": "https://example.com/hr6.jpg"
+  }
+]
