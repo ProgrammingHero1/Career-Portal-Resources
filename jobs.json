@@ -11,7 +11,7 @@
       "currency": "bdt"
     },
     "description": "We are seeking a skilled Software Engineer to join our dynamic team. The candidate will work on diverse projects and contribute to innovative solutions.",
-    "company_info": "Tech Solutions Ltd. is a leading IT company specializing in cutting-edge software development and IT consultancy.",
+    "company": "Favorite IT",
     "requirements": [
       "Proficient in JavaScript",
       "Experience with React",
@@ -26,7 +26,7 @@
     "deadline": "2024-12-25",
     "hr_email": "hr@techsolutions.com",
     "hr_name": "Farhan Rahman",
-    "company_logo": "https://example.com/hr1.jpg"
+    "company_logo": "https://i.ibb.co/mXD5MNf/facebook.png"
   },
   {
     "title": "Marketing Specialist",
@@ -40,7 +40,7 @@
       "currency": "bdt"
     },
     "description": "Join our marketing team to strategize and implement innovative campaigns for our products and services.",
-    "company_info": "BrightMark Inc. is a marketing agency known for delivering creative and data-driven marketing solutions.",
+    "company": "GoatMark Inc",
     "requirements": [
       "Expertise in digital marketing",
       "Knowledge of SEO/SEM",
@@ -55,7 +55,7 @@
     "deadline": "2024-12-10",
     "hr_email": "recruitment@brightmark.com",
     "hr_name": "Tasnia Ahmed",
-    "company_logo": "https://example.com/hr2.jpg"
+    "company_logo": "https://i.ibb.co/TvvzXfq/google.png"
   },
   {
     "title": "Finance Manager",
@@ -69,7 +69,7 @@
       "currency": "bdt"
     },
     "description": "We are hiring a Finance Manager to oversee financial operations, budgeting, and reporting.",
-    "company_info": "SecureFinance Ltd. provides reliable financial services to businesses and individuals across Bangladesh.",
+    "company_info": "Local Inch Ltd",
     "requirements": [
       "CPA or equivalent certification",
       "Strong analytical skills",
@@ -84,7 +84,7 @@
     "deadline": "2024-12-15",
     "hr_email": "finance.hr@securefinance.com",
     "hr_name": "Md. Alamgir",
-    "company_logo": "https://example.com/hr3.jpg"
+    "company_logo": "https://i.ibb.co/T1XRmbX/linkedin.png"
   },
   {
     "title": "Content Writer",
@@ -98,7 +98,7 @@
       "currency": "bdt"
     },
     "description": "We are looking for a talented Content Writer to create compelling content for our digital platforms.",
-    "company_info": "CreativeHub is a digital agency specializing in branding, web design, and content creation.",
+    "company": "Munir soft.",
     "requirements": [
       "Excellent writing skills",
       "Knowledge of SEO",
@@ -113,7 +113,7 @@
     "deadline": "2024-12-20",
     "hr_email": "hr@creativehub.com",
     "hr_name": "Anika Chowdhury",
-    "company_logo": "https://example.com/hr4.jpg"
+    "company_logo": "https://i.ibb.co/MhsV6wz/microsoft.png"
   },
   {
     "title": "Teaching Assistant",
@@ -127,7 +127,7 @@
       "currency": "bdt"
     },
     "description": "Assist in preparing course materials and support teachers in classroom activities.",
-    "company_info": "KnowledgeBridge is a renowned educational institution fostering academic excellence.",
+    "company_info": "Never Flixed.",
     "requirements": [
       "Good academic record",
       "Excellent communication skills",
@@ -142,7 +142,7 @@
     "deadline": "2024-12-18",
     "hr_email": "careers@knowledgebridge.com",
     "hr_name": "Samiul Islam",
-    "company_logo": "https://example.com/hr5.jpg"
+    "company_logo": "https://i.ibb.co/ThtyXpz/netflix.png"
   },
   {
     "title": "Project Manager",
@@ -156,7 +156,7 @@
       "currency": "bdt"
     },
     "description": "We are seeking a dynamic Project Manager to lead our development team and ensure successful project delivery.",
-    "company_info": "InnovateTech specializes in software development and IT consulting, offering end-to-end solutions.",
+    "company_info": "Nicola Tesla.",
     "requirements": [
       "Strong leadership skills",
       "Experience in project management",
@@ -171,6 +171,6 @@
     "deadline": "2024-12-25",
     "hr_email": "hr@innovatetech.com",
     "hr_name": "Tahsin Rahman",
-    "company_logo": "https://example.com/hr6.jpg"
+    "company_logo": "https://i.ibb.co/26n3Jp7/tesla.png"
   }
 ]
