@@ -26,7 +26,7 @@
     "deadline": "2024-12-25",
     "hr_email": "hr@techsolutions.com",
     "hr_name": "Farhan Rahman",
-    "hr_image": "https://example.com/hr1.jpg"
+    "company_logo": "https://example.com/hr1.jpg"
   },
   {
     "title": "Marketing Specialist",
@@ -55,7 +55,7 @@
     "deadline": "2024-12-10",
     "hr_email": "recruitment@brightmark.com",
     "hr_name": "Tasnia Ahmed",
-    "hr_image": "https://example.com/hr2.jpg"
+    "company_logo": "https://example.com/hr2.jpg"
   },
   {
     "title": "Finance Manager",
@@ -84,7 +84,7 @@
     "deadline": "2024-12-15",
     "hr_email": "finance.hr@securefinance.com",
     "hr_name": "Md. Alamgir",
-    "hr_image": "https://example.com/hr3.jpg"
+    "company_logo": "https://example.com/hr3.jpg"
   },
   {
     "title": "Content Writer",
@@ -113,7 +113,7 @@
     "deadline": "2024-12-20",
     "hr_email": "hr@creativehub.com",
     "hr_name": "Anika Chowdhury",
-    "hr_image": "https://example.com/hr4.jpg"
+    "company_logo": "https://example.com/hr4.jpg"
   },
   {
     "title": "Teaching Assistant",
@@ -142,7 +142,7 @@
     "deadline": "2024-12-18",
     "hr_email": "careers@knowledgebridge.com",
     "hr_name": "Samiul Islam",
-    "hr_image": "https://example.com/hr5.jpg"
+    "company_logo": "https://example.com/hr5.jpg"
   },
   {
     "title": "Project Manager",
@@ -171,6 +171,6 @@
     "deadline": "2024-12-25",
     "hr_email": "hr@innovatetech.com",
     "hr_name": "Tahsin Rahman",
-    "hr_image": "https://example.com/hr6.jpg"
+    "company_logo": "https://example.com/hr6.jpg"
   }
 ]
