@@ -12,18 +12,9 @@
     },
     "description": "We are seeking a skilled Software Engineer to join our dynamic team. The candidate will work on diverse projects and contribute to innovative solutions.",
     "company": "Favorite IT",
-    "requirements": [
-      "Proficient in JavaScript",
-      "Experience with React",
-      "Strong problem-solving skills"
-    ],
-    "responsibilities": [
-      "Develop and maintain software",
-      "Collaborate with the team",
-      "Participate in code reviews"
-    ],
+    "requirements": ["JavaScript", "React", "Node.js", "MongoDB"],
+    "responsibilities": ["Develop and maintain software", "Collaborate with the team", "Participate in code reviews"],
     "status": "active",
-    "deadline": "2024-12-25",
     "hr_email": "hr@techsolutions.com",
     "hr_name": "Farhan Rahman",
     "company_logo": "https://i.ibb.co/mXD5MNf/facebook.png"
@@ -41,18 +32,9 @@
     },
     "description": "Join our marketing team to strategize and implement innovative campaigns for our products and services.",
     "company": "GoatMark Inc",
-    "requirements": [
-      "Expertise in digital marketing",
-      "Knowledge of SEO/SEM",
-      "Strong analytical skills"
-    ],
-    "responsibilities": [
-      "Develop marketing strategies",
-      "Manage ad campaigns",
-      "Analyze campaign performance"
-    ],
+    "requirements": ["Google Analytics", "SEO", "Content Management Systems", "Excel"],
+    "responsibilities": ["Develop marketing strategies", "Manage ad campaigns", "Analyze campaign performance"],
     "status": "active",
-    "deadline": "2024-12-10",
     "hr_email": "recruitment@brightmark.com",
     "hr_name": "Tasnia Ahmed",
     "company_logo": "https://i.ibb.co/TvvzXfq/google.png"
@@ -69,19 +51,10 @@
       "currency": "bdt"
     },
     "description": "We are hiring a Finance Manager to oversee financial operations, budgeting, and reporting.",
-    "company_info": "Local Inch Ltd",
-    "requirements": [
-      "CPA or equivalent certification",
-      "Strong analytical skills",
-      "Proficiency in financial software"
-    ],
-    "responsibilities": [
-      "Manage budgets",
-      "Prepare financial reports",
-      "Ensure regulatory compliance"
-    ],
+    "company": "Local Inch Ltd",
+    "requirements": ["QuickBooks", "SAP", "Excel", "SQL"],
+    "responsibilities": ["Manage budgets", "Prepare financial reports", "Ensure regulatory compliance"],
     "status": "active",
-    "deadline": "2024-12-15",
     "hr_email": "finance.hr@securefinance.com",
     "hr_name": "Md. Alamgir",
     "company_logo": "https://i.ibb.co/T1XRmbX/linkedin.png"
@@ -99,18 +72,9 @@
     },
     "description": "We are looking for a talented Content Writer to create compelling content for our digital platforms.",
     "company": "Munir soft.",
-    "requirements": [
-      "Excellent writing skills",
-      "Knowledge of SEO",
-      "Strong research skills"
-    ],
-    "responsibilities": [
-      "Write blog posts",
-      "Create social media content",
-      "Develop email campaigns"
-    ],
+    "requirements": ["WordPress", "SEO", "Google Docs", "Grammarly"],
+    "responsibilities": ["Write blog posts", "Create social media content", "Develop email campaigns"],
     "status": "active",
-    "deadline": "2024-12-20",
     "hr_email": "hr@creativehub.com",
     "hr_name": "Anika Chowdhury",
     "company_logo": "https://i.ibb.co/MhsV6wz/microsoft.png"
@@ -127,19 +91,10 @@
       "currency": "bdt"
     },
     "description": "Assist in preparing course materials and support teachers in classroom activities.",
-    "company_info": "Never Flixed.",
-    "requirements": [
-      "Good academic record",
-      "Excellent communication skills",
-      "Enthusiasm for teaching"
-    ],
-    "responsibilities": [
-      "Assist in lesson planning",
-      "Support classroom management",
-      "Conduct tutoring sessions"
-    ],
+    "company": "Never Flixed.",
+    "requirements": ["Google Slides", "Zoom", "MS Office", "Google Docs"],
+    "responsibilities": ["Assist in lesson planning", "Support classroom management", "Conduct tutoring sessions"],
     "status": "active",
-    "deadline": "2024-12-18",
     "hr_email": "careers@knowledgebridge.com",
     "hr_name": "Samiul Islam",
     "company_logo": "https://i.ibb.co/ThtyXpz/netflix.png"
@@ -156,21 +111,92 @@
       "currency": "bdt"
     },
     "description": "We are seeking a dynamic Project Manager to lead our development team and ensure successful project delivery.",
-    "company_info": "Nicola Tesla.",
-    "requirements": [
-      "Strong leadership skills",
-      "Experience in project management",
-      "Proficiency in Agile methodologies"
-    ],
-    "responsibilities": [
-      "Oversee project execution",
-      "Manage team workflows",
-      "Ensure timely project delivery"
-    ],
+    "company": "Nicola Tesla.",
+    "requirements": ["JIRA", "Trello", "Slack", "Agile Methodologies"],
+    "responsibilities": ["Oversee project execution", "Manage team workflows", "Ensure timely project delivery"],
     "status": "active",
-    "deadline": "2024-12-25",
     "hr_email": "hr@innovatetech.com",
     "hr_name": "Tahsin Rahman",
     "company_logo": "https://i.ibb.co/26n3Jp7/tesla.png"
+  },
+  {
+    "title": "Data Scientist",
+    "location": "Mohakhali, Dhaka",
+    "jobType": "Full-Time",
+    "category": "Data Science",
+    "applicationDeadline": "2024-12-28",
+    "salaryRange": {
+      "min": 80000,
+      "max": 120000,
+      "currency": "bdt"
+    },
+    "description": "Analyze large datasets to extract meaningful insights and develop predictive models.",
+    "company": "DataWorx Ltd",
+    "requirements": ["Python", "TensorFlow", "SQL", "Tableau"],
+    "responsibilities": ["Develop predictive models", "Clean and analyze data", "Present data-driven insights"],
+    "status": "active",
+    "hr_email": "data.hr@dataworx.com",
+    "hr_name": "Rifat Karim",
+    "company_logo": "https://i.ibb.co/YkXNfZZ/dataworx.png"
+  },
+  {
+    "title": "UI/UX Designer",
+    "location": "Dhanmondi, Dhaka",
+    "jobType": "Remote",
+    "category": "Design",
+    "applicationDeadline": "2024-12-18",
+    "salaryRange": {
+      "min": 40000,
+      "max": 70000,
+      "currency": "bdt"
+    },
+    "description": "Create engaging user interfaces and improve user experience for our applications.",
+    "company": "Designify",
+    "requirements": ["Figma", "Adobe XD", "HTML", "CSS"],
+    "responsibilities": ["Design prototypes", "Conduct user research", "Collaborate with developers"],
+    "status": "active",
+    "hr_email": "design.jobs@designify.com",
+    "hr_name": "Afsana Noor",
+    "company_logo": "https://i.ibb.co/XDGs8mD/designify.png"
+  },
+  {
+    "title": "DevOps Engineer",
+    "location": "Baridhara, Dhaka",
+    "jobType": "Full-Time",
+    "category": "Engineering",
+    "applicationDeadline": "2024-12-22",
+    "salaryRange": {
+      "min": 70000,
+      "max": 100000,
+      "currency": "bdt"
+    },
+    "description": "Build and maintain CI/CD pipelines and ensure reliable infrastructure.",
+    "company": "InfraOps",
+    "requirements": ["Docker", "Kubernetes", "AWS", "Terraform"],
+    "responsibilities": ["Implement CI/CD", "Monitor infrastructure", "Automate deployment processes"],
+    "status": "active",
+    "hr_email": "hr@infraops.com",
+    "hr_name": "Hasibul Hossain",
+    "company_logo": "https://i.ibb.co/Y7M7VVr/infraops.png"
+  },
+  {
+    "title": "Mobile App Developer",
+    "location": "Bashundhara, Dhaka",
+    "jobType": "Hybrid",
+    "category": "Development",
+    "applicationDeadline": "2024-12-25",
+    "salaryRange": {
+      "min": 50000,
+      "max": 80000,
+      "currency": "bdt"
+    },
+    "description": "Develop and maintain mobile applications for Android and iOS platforms.",
+    "company": "AppCrafter",
+    "requirements": ["Flutter", "Kotlin", "Swift", "Firebase"],
+    "responsibilities": ["Develop mobile apps", "Ensure app performance", "Collaborate with backend teams"],
+    "status": "active",
+    "hr_email": "jobs@appcrafter.com",
+    "hr_name": "Tareq Anwar",
+    "company_logo": "https://i.ibb.co/D9XPM62/appcrafter.png"
   }
 ]
